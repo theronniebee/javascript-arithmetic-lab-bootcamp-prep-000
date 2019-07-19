@@ -16,3 +16,7 @@ function divide(a, b){
   return c;
   
 }
+function inc(a, b){
+  c = a + b;
+  return c;
+}
