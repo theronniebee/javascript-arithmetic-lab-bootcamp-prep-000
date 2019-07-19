@@ -17,11 +17,11 @@ function divide(a, b){
   
 }
 function inc(a){
-  c = parseInt(a+1);
+  c = a++
   return c;
 }
 
 function dec(a){ 
-  number = a - 1;
+  number = a--
   return number;
 }
