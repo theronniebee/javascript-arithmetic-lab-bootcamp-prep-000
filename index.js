@@ -20,3 +20,8 @@ function inc(a){
   c = parseInt(a+1);
   return c;
 }
+
+function dec(a){ 
+  number = a - 1;
+  return number;
+}
