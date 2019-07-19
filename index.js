@@ -17,6 +17,6 @@ function divide(a, b){
   
 }
 function inc(a){
-  c = persentInt(a+5);
+  c = persentInt(a+1);
   return c;
 }
