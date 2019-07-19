@@ -16,7 +16,7 @@ function divide(a, b){
   return c;
   
 }
-function inc(a, b){
-  c = a + b;
+function inc(a){
+  c = persentInt(a);
   return c;
 }
