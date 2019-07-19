@@ -22,15 +22,15 @@ function inc(a){
 }
 
 function dec(a){ 
-  number = a-1;
-  return number;
+  c = a-1;
+  return c;
 }
 function makeInt(a){ 
-  number = parseInt(a, 10);
-  return number;
+  c = parseInt(a, 10);
+  return c;
 }
 function preserveDecimal(a){  
   c = parseFloat(a, 10);
-  return number;
+  return c;
 }
 
